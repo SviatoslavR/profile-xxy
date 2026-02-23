@@ -3,8 +3,7 @@ let link;
 let canvasHeight;
 
 function preload() {
-//  profileImg = loadImage("profile.jpg");
-  ；
+  profileImg = loadImage("profile.jpg");
 }
 
 function setup() {
