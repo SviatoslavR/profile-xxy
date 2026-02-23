@@ -4,6 +4,7 @@ let canvasHeight;
 
 function preload() {
 //  profileImg = loadImage("profile.jpg");
+  ；
 }
 
 function setup() {
