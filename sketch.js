@@ -11,7 +11,7 @@ function setup() {
   createCanvas(windowWidth, canvasHeight);
   noFill();
 
-  link = createA("https://editor.p5js.org/pourchopin/full/nM4xwUPFe", "ENTER THE MID-TERM PROJECT");
+  link = createA("midterm_project/index.html", "ENTER THE MID-TERM PROJECT");
   link.style("font-family", "Tamil MN"); 
   link.style("font-size", "15px");
   link.style("letter-spacing", "3px");
