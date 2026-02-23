@@ -11,7 +11,7 @@ function setup() {
   createCanvas(windowWidth, canvasHeight);
   noFill();
 
-  link = createA("midterm_project/index.html", "ENTER THE MID-TERM PROJECT");
+  link = createA("Coding_Midterm_Final/index.html", "ENTER THE MID-TERM PROJECT");
   link.style("font-family", "Tamil MN"); 
   link.style("font-size", "15px");
   link.style("letter-spacing", "3px");
